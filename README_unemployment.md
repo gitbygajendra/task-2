@@ -1,17 +1,3 @@
-# Unemployment Analysis with Python
-
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
-![MasterHead](https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp)
-
-<font size="1">Image Courtesy: https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp</font>
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1vbSeH3WXXvml83Gu432SWGo9cifZ7LQf?usp=sharing)
-
-
----
-
 ## Problem Statement
 
 Unemployment, a critical economic indicator, is typically quantified using the unemployment rate, which represents the proportion of individuals without employment within the total labor force. The COVID-19 pandemic has significantly impacted the global labor market, resulting in a substantial surge in the unemployment rate. Analyzing and comprehending the dynamics of this economic metric through data science can offer valuable insights and potential solutions.
@@ -69,14 +55,3 @@ In this data science project, we embarked on a comprehensive analysis of the une
 6. We uncovered a robust negative correlation between Estimated Unemployment Rate and Estimated Employed, highlighting the intricate relationship between these two crucial employment indicators, both before and during the lockdown.
 
 This project not only provided valuable insights into the economic impact of the Covid-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, and underscore the importance of data-driven approaches in mitigating the effects of future crises.
-
----
-
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
